@@ -23,6 +23,8 @@ DigitalOut sirenPin(PE_10);
 
 static bool sirenState = OFF;
 
+//=====[DeclaratisirenState = OFF;
+
 //=====[Declarations (prototypes) of private functions]========================
 
 //=====[Implementations of public functions]===================================
